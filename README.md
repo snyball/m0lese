@@ -11,3 +11,4 @@
 * **Discord**: Tag: `Molese#4023` | ID: `856020120467275779`
 * **Reddit**: [u/molese](https://www.reddit.com/user/molese)
 * **Slack**: `molese.slack.com` | ID: `U0290REL117`
+* **Lemmy**: [@molese](https://lemmy.ml/u/molese)
