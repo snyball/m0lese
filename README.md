@@ -12,3 +12,4 @@
 * **Reddit**: [u/molese](https://www.reddit.com/user/molese)
 * **Slack**: `molese.slack.com` | ID: `U0290REL117`
 * **Lemmy**: [@molese](https://lemmy.ml/u/molese)
+* **Zulip**: `molese@protonmail.com` | Organization: [molese.zulipchat.com](https://molese.zulipchat.com)
