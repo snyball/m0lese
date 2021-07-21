@@ -14,6 +14,6 @@
 * **Matrix**: `@molese:matrix.org`
 * **Discord**: Tag: `Molese#4023` | ID: `856020120467275779`
 * **Reddit**: [u/molese](https://www.reddit.com/user/molese)
-* **Slack**: Email: `molese@protonmail.com` | `molese.slack.com` | ID: `U0290REL117`
+* **Slack**: Email: `molese@protonmail.com` | Workspace: `molese.slack.com` | ID: `U0290REL117`
 * **Lemmy**: [@molese](https://lemmy.ml/u/molese)
 * **Zulip**: `molese@protonmail.com` | Organization: [molese.zulipchat.com](https://molese.zulipchat.com)
