@@ -8,27 +8,3 @@
   <img src="https://github.com/m0lese/m0lese/blob/prime/adamant.png" width="200" height="200">
   <img src="https://github.com/m0lese/m0lese/blob/prime/matrix.png" width="200" height="200">
 </p>
-
-
-# Social
-* **PGP Key**: 
-  - [keys.openpgp.org/..molese@protonmail.com](https://keys.openpgp.org/search?q=molese%40protonmail.com)
-  - [3665D1C872B9A0284B06136C61C53544E95B132E](https://keys.openpgp.org/vks/v1/by-fingerprint/3665D1C872B9A0284B06136C61C53544E95B132E)
-* **Email**: 
-  - Primary Address: `molese@protonmail.com`
-* **Matrix**: 
-  - User: `@molese:matrix.org`
-* **Discord**: 
-  - Tag: `Molese#4023`
-  - ID: `856020120467275779`
-* **Reddit**: 
-   - User: [u/molese](https://www.reddit.com/user/molese)
-* **Lemmy**: 
-  - User: [@molese](https://lemmy.ml/u/molese)
-* **Slack**: 
-  - Email: `molese@protonmail.com`
-  - Workspace: `molese.slack.com`
-  - ID: `U0290REL117`
-* **Zulip**: 
-  - User: `molese@protonmail.com`
-  - Organization: [molese.zulipchat.com](https://molese.zulipchat.com)
