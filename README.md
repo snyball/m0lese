@@ -11,7 +11,6 @@
 
 
 # Social
-* Username: `molese`
 * **PGP Key**: [keys.openpgp.org/..molese@protonmail.com](https://keys.openpgp.org/search?q=molese%40protonmail.com) or [3665D1C872B9A0284B06136C61C53544E95B132E](https://keys.openpgp.org/vks/v1/by-fingerprint/3665D1C872B9A0284B06136C61C53544E95B132E).
 * **Email**: `molese@protonmail.com`
 * **Matrix**: `@molese:matrix.org`
