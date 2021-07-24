@@ -36,3 +36,5 @@
   - QR Code: [adamant.png](https://github.com/m0lese/m0lese/raw/prime/adamant.png)
 * **Session**:
   - ID: `05463bbe065f8514365a91d0fe24cfe520c60dc85a921dcae28979346aed040526`
+* **XMPP**:
+  - JID: `molese@616.pub`
