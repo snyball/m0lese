@@ -19,7 +19,7 @@
 * **Matrix**: 
   - User: `@molese:matrix.org`
 * **Discord**: 
-  - Tag: ~~`Molese#4023`~~ `rim#4023` (*temp*)
+  - Tag: ~~`Molese#4023`~~ `rimm#4023` (*temp*)
   - ID: `856020120467275779`
 * **Reddit**: 
    - User: [u/molese](https://www.reddit.com/user/molese)
