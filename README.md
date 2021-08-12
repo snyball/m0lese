@@ -38,3 +38,7 @@
   - ID: `05463bbe065f8514365a91d0fe24cfe520c60dc85a921dcae28979346aed040526`
 * **XMPP**:
   - JID: `molese@616.pub`
+* **Github**:
+  - Username: [m0lese](https://github.com/m0lese)
+* **Dotya**:
+  - Username: [Molese](https://git.dotya.ml/Molese)
