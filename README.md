@@ -11,20 +11,11 @@
 
 
 # Social
-* **PGP Key**: 
+* **PGP Public Key**: 
   - [keys.openpgp.org/..molese@protonmail.com](https://keys.openpgp.org/search?q=molese%40protonmail.com)
   - [3665D1C872B9A0284B06136C61C53544E95B132E](https://keys.openpgp.org/vks/v1/by-fingerprint/3665D1C872B9A0284B06136C61C53544E95B132E)
 * **Email**: 
   - Primary Address: `molese@protonmail.com`
-* **Matrix**: 
-  - User: `@molese:matrix.org`
-* **Discord**: 
-  - Tag: `Molese#4023`
-  - ID: `856020120467275779`
-* **Reddit**: 
-   - User: [u/molese](https://www.reddit.com/user/molese)
-* **Lemmy**: 
-  - User: [@molese](https://lemmy.ml/u/molese)
 * **Slack**: 
   - Email: `molese@protonmail.com`
   - Workspace: `molese.slack.com`
@@ -32,13 +23,5 @@
 * **Zulip**: 
   - User: `molese@protonmail.com`
   - Organization: [molese.zulipchat.com](https://molese.zulipchat.com)
-* **Adamant**:
-  - QR Code: [adamant.png](https://github.com/m0lese/m0lese/raw/prime/adamant.png)
-* **Session**:
-  - ID: `05463bbe065f8514365a91d0fe24cfe520c60dc85a921dcae28979346aed040526`
-* **XMPP**:
-  - JID: `molese@616.pub`
 * **Github**:
   - Username: [m0lese](https://github.com/m0lese)
-* **Dotya**:
-  - Username: [Molese](https://git.dotya.ml/Molese)
