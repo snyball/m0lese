@@ -2,7 +2,7 @@ name: Animation
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   
+    - cron: "*/5 * * * *"   
   push:
     branches: [ snake-contribution-graph ]
 
